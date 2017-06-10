@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Dead Wood Space
-permalink: /:categories/:title.html
+permalink: /:categories/:title
 email: hello@ldaniel.eu
 description: > # this means to ignore newlines until "baseurl:"
   Saves no lives today.
