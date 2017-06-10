@@ -1,4 +1,7 @@
 // Base
+html {
+  background-color: $greylightest;
+}
 body {
   min-width: 100%;
   min-height: 100%;
@@ -34,6 +37,7 @@ ul {
 
 
 
+
 // Wrapper
 .wrapper {
   max-width: 50rem;
@@ -63,6 +67,7 @@ ul {
 // Component: Feed
 .feed {
   li {
+    position: relative;
     margin-bottom: 2rem;
     background: $white;
     padding: 2rem 3rem;
@@ -70,8 +75,17 @@ ul {
       padding: 1rem;
     }
   }
+  h2 {
+    margin-bottom: 2rem;
+  }
   .meta {
     color: $grey;
+  }
+  img:first-child {
+    position: absolute;
+    right: 1rem;
+    top: 1rem;
+    max-width: 5rem;
   }
 }
 

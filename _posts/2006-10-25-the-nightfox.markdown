@@ -6,7 +6,7 @@ categories:
 layout: post
 ---
 
-![news_nightfox.jpg](/uploads/news_nightfox.jpg){: .u-floatright }
+![news_nightfox.jpg](/uploads/news_nightfox.jpg)
 
 Welcome, the tree is no match for nightfall. Together it's teaparty. But if you want to have a home tonight, I suggest the Feeter Inn. Do not ask for their chicken though, if you feel like a good night's sleep.
 
