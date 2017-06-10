@@ -1,6 +1,6 @@
 ---
 title: The Constant Devoid of the Rational
-date: 2017-09-07 23:58:00 Z
+date: 2008-09-07 23:58:00 Z
 ---
 
 ![The Constant Devoid of the Rational](/uploads/news_theconstantdevoidoftherational.jpg)
