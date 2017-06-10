@@ -13,7 +13,7 @@ email: hello@ldaniel.eu
 description: 'Saves no lives today.
 
 '
-baseurl: ''
+baseurl: 
 url: http://deadwood.space
 twitter_username: ldanielswakman
 github_username: ldanielswakman
