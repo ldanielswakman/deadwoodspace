@@ -1,6 +1,8 @@
 ---
 title: Bleeding Orange
 date: 2007-08-08 00:00:00 Z
+categories:
+- blurb
 ---
 
 Firstly: A title does not reveal what it might suggest, given its history, about the content. For example, it might not contain a veteran's club of some american army group. Also, an eighties fusion-jazzband is an option of what this not is. Secondly, a title chosen earlier does not contain what later would be considered as more suitable for the moment.
