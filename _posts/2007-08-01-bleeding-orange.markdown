@@ -1,6 +1,8 @@
 ---
 title: Bleeding Orange
 date: 2007-08-01 23:43:00 Z
+categories:
+- blurb
 ---
 
 ![Bleeding Orange](/uploads/news_bleedingorange.jpg)
