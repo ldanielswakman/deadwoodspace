@@ -5,6 +5,8 @@ categories:
 - blurb
 ---
 
+![news_bleedingorange.jpg](/uploads/news_bleedingorange.jpg)
+
 Firstly: A title does not reveal what it might suggest, given its history, about the content. For example, it might not contain a veteran's club of some american army group. Also, an eighties fusion-jazzband is an option of what this not is. Secondly, a title chosen earlier does not contain what later would be considered as more suitable for the moment.
 
 Anyway, sleep is underrated. Also the feeling of the moment versus the overall general feeling of a time is a difference of night and day. So what is important anyway, is to be able to relate; in the moment. But then again, should you negate current position of the mind and just plough on despite yourself? How valuable is the you of the now? That, for example, is something that struck me today.
