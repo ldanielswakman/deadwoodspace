@@ -1,6 +1,8 @@
 ---
 title: Jellyfish Stone
 date: 2007-07-26 22:36:00 Z
+categories:
+- blurb
 ---
 
 I guess that it is safe to say, after about 5 months, that is has been a long time since some considerable bullshit has been jotted down here. Basicly, after all holiday does seem to be what It sets out to be. Just a few weeks of relaxed fun, sun, art, beautiful countries, and what not.
