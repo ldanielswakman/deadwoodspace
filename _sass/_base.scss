@@ -1,0 +1,82 @@
+// Base
+body {
+  min-width: 100%;
+  min-height: 100%;
+  margin: 0;
+  padding: 0;
+
+  background-color: $greylightest;
+  color: $bluedull;
+
+  font-family: $sans;
+  font-size: 125%; // 1rem = 20px (at 100% zoom)
+  line-height: 1.8rem;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-smoothing: antialiased;
+}
+
+::selection {
+  background-color: $blue;
+  color: $white;
+}
+
+a {
+  text-decoration: none;
+  color: $blue;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+
+
+// Wrapper
+.wrapper {
+  max-width: 50rem;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0 1rem;
+}
+
+
+
+// Component: Header
+.header {
+  background: darken($greylightest, 2%);
+  text-align: center;
+
+  h1 {
+    margin: 0;
+    padding: 2rem 0;
+    text-transform: uppercase;
+    color: lighten($greylightest, 1%);
+    line-height: 2rem;
+  }
+}
+
+
+
+// Component: Feed
+.feed {
+  li {
+    margin-bottom: 2rem;
+    background: $white;
+    padding: 2rem 3rem;
+  }
+}
+
+
+
+// Component: Footer
+.footer {
+  text-align: center;
+
+  a {
+    color: #828282;
+    padding: 0 2rem;
+  }
+}
