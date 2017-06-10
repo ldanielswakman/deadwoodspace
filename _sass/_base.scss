@@ -66,6 +66,12 @@ ul {
     margin-bottom: 2rem;
     background: $white;
     padding: 2rem 3rem;
+    @media screen and (max-width: 480px) {
+      padding: 1rem;
+    }
+  }
+  .meta {
+    color: $grey;
   }
 }
 
@@ -73,10 +79,14 @@ ul {
 
 // Component: Footer
 .footer {
+  padding-bottom: 2rem;
   text-align: center;
 
   a {
-    color: #828282;
+    color: $grey;
     padding: 0 2rem;
+  }
+  svg {
+    fill: $grey;
   }
 }
